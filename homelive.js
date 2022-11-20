@@ -1,14 +1,11 @@
 function homelive(){
-document.write("<div class=\"col-12 btn btn btn-dark text-light mb-1\">Sunday, 2022-11-20<\/div>");
-document.write("<a class='text-decoration-none nav-link2' href='\/2022\/08\/football-10.html' target='_blank'><div class='d-flex bg-game my-2 btn btn btn-secondary text-start position-relative'><div class=\"F1\"><\/div><div class='px-3 my-auto'><span>13:00<\/span><\/div><div class='col-8 fs-7 px-2 my-auto'><div class='my-auto'><div class='col-11'>Formula 1 2022 - United Arab Emirates GP<\/div><\/div><\/div><\/div><\/a>");
-document.write("<a class='text-decoration-none nav-link2' href='\/2022\/08\/football-1.html' target='_blank'><div class='d-flex bg-game my-2 btn btn btn-secondary text-start position-relative'><div class=\"worldcup\"><\/div><div class='px-3 my-auto'><span>17:00<\/span><\/div><div class='col-8 fs-7 px-2 my-auto'><div class='my-auto'><div class='col-11'>Qatar vs Ecuador<\/div><\/div><\/div><\/div><\/a>");
-}
-
-function schedule(){
 document.write("<div class=\"col-12 btn btn btn-dark text-light mb-1\">Monday, 2022-11-21<\/div>");
 document.write("<a class='text-decoration-none nav-link2' href='\/2022\/08\/football-1.html' target='_blank'><div class='d-flex bg-game my-2 btn btn btn-secondary text-start position-relative'><div class=\"worldcup\"><\/div><div class='px-3 my-auto'><span>14:00<\/span><\/div><div class='col-8 fs-7 px-2 my-auto'><div class='my-auto'><div class='col-11'>England vs Iran<\/div><\/div><\/div><\/div><\/a>");
 document.write("<a class='text-decoration-none nav-link2' href='\/2022\/08\/football-1.html' target='_blank'><div class='d-flex bg-game my-2 btn btn btn-secondary text-start position-relative'><div class=\"worldcup\"><\/div><div class='px-3 my-auto'><span>17:00<\/span><\/div><div class='col-8 fs-7 px-2 my-auto'><div class='my-auto'><div class='col-11'>Senegal vs Netherlands<\/div><\/div><\/div><\/div><\/a>");
 document.write("<a class='text-decoration-none nav-link2' href='\/2022\/08\/football-1.html' target='_blank'><div class='d-flex bg-game my-2 btn btn btn-secondary text-start position-relative'><div class=\"worldcup\"><\/div><div class='px-3 my-auto'><span>20:00<\/span><\/div><div class='col-8 fs-7 px-2 my-auto'><div class='my-auto'><div class='col-11'>USA vs Wales<\/div><\/div><\/div><\/div><\/a>");
+}
+
+function schedule(){
 document.write("<div class=\"col-12 btn btn btn-dark text-light mb-1\">Tuesday, 2022-11-22<\/div>");
 document.write("<a class='text-decoration-none nav-link2' href='\/2022\/08\/football-1.html' target='_blank'><div class='d-flex bg-game my-2 btn btn btn-secondary text-start position-relative'><div class=\"worldcup\"><\/div><div class='px-3 my-auto'><span>11:00<\/span><\/div><div class='col-8 fs-7 px-2 my-auto'><div class='my-auto'><div class='col-11'>Argentina vs Saudi Arabia<\/div><\/div><\/div><\/div><\/a>");
 document.write("<a class='text-decoration-none nav-link2' href='\/2022\/08\/football-1.html' target='_blank'><div class='d-flex bg-game my-2 btn btn btn-secondary text-start position-relative'><div class=\"worldcup\"><\/div><div class='px-3 my-auto'><span>14:00<\/span><\/div><div class='col-8 fs-7 px-2 my-auto'><div class='my-auto'><div class='col-11'>Denmark vs Tunisia<\/div><\/div><\/div><\/div><\/a>");
