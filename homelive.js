@@ -4,7 +4,6 @@ document.write("<a class='text-decoration-none nav-link2' href='\/2022\/08\/foot
 document.write("<a class='text-decoration-none nav-link2' href='\/2022\/08\/football-1.html' target='_blank'><div class='d-flex bg-game my-2 btn btn btn-secondary text-start position-relative'><div class=\"worldcup\"><\/div><div class='px-3 my-auto'><span>17:00<\/span><\/div><div class='col-8 fs-7 px-2 my-auto'><div class='my-auto'><div class='col-11'>Qatar vs Ecuador<\/div><\/div><\/div><\/div><\/a>");
 }
 
-
 function schedule(){
 document.write("<div class=\"col-12 btn btn btn-dark text-light mb-1\">Monday, 2022-11-21<\/div>");
 document.write("<a class='text-decoration-none nav-link2' href='\/2022\/08\/football-1.html' target='_blank'><div class='d-flex bg-game my-2 btn btn btn-secondary text-start position-relative'><div class=\"worldcup\"><\/div><div class='px-3 my-auto'><span>14:00<\/span><\/div><div class='col-8 fs-7 px-2 my-auto'><div class='my-auto'><div class='col-11'>England vs Iran<\/div><\/div><\/div><\/div><\/a>");
